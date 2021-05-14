@@ -1,3 +1,3 @@
-food
-books
-games
+- food
+- books
+- games
